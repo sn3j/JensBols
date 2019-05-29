@@ -19,8 +19,8 @@ namespace JensBols
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Back to jens");
-            //iiiii
+            MessageBox.Show("Hello Jens Bols!");
+            
         }
     }
 }
