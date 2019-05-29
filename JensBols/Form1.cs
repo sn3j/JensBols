@@ -19,7 +19,7 @@ namespace JensBols
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Alimhan eerste bericht");
+            MessageBox.Show("Back to jens");
         }
     }
 }
